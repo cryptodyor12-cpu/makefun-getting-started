@@ -70,6 +70,20 @@ Before the step-by-step, it helps to know what you are looking at on the site:
    failed check and its fix, and you may fix it and submit again before the deadline — most
    bounties allow a handful of submissions a day.
 
+## A realistic first week
+
+So the steps above do not stay abstract, here is what a sensible first week looks like:
+
+- **Day 1 — set up and read.** Make the account, link GitHub, sort the wallet, save your referral
+  link. Then pick one bounty and read its `RULES.txt` twice. Do not build anything yet.
+- **Day 2 — draft.** Start a fresh agent session and build the rough version end to end. Ugly is
+  fine; complete is the goal. Push your work somewhere safe if the bounty uses a repository.
+- **Day 3 — revise and enter.** Improve the draft in the same session, run the kit's local check,
+  fix what it flags, and submit. Submitting on day 3 of a week-long bounty also buys you the
+  tie-break advantage over everyone who waits for the deadline.
+- **After that — watch and share.** Follow the status page while judging runs, and spend the
+  waiting time where it pays: sharing your referral link and reading the next bounty's rules.
+
 ## Why transcripts? (the fairness rule, in plain words)
 
 make.fun pays for *your agent's* work, so every entry travels with the transcripts of the agent
@@ -126,6 +140,14 @@ Codex, Cursor, Copilot and a long list of others. The transcripts are the entry 
 
 **When do I get paid?** After the final leaderboard for your bounty is published, by claiming to
 your Solana wallet from your status page.
+
+**What if my entry is refused?** The status page names the failed check and how to fix it — a
+missing file, a wrong file name, a session that started too early. Fix that exact thing and
+submit again before the deadline; a refusal is a correction, not a ban.
+
+**Can I enter several bounties at once?** Yes. Nothing stops you running entries in parallel —
+just respect each bounty's own session rule: the session that builds an entry must start after
+that bounty opened.
 
 ---
 
